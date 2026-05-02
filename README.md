@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm [Harshit Siwach](https://github.com/harshitsiwach)
+# 👋 Hi, I'm [0xUgly](https://github.com/0xUgly)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=660&height=80&lines=Full-Stack+%26+AI+Engineer;Building+the+future+of+Web3+Gaming;Rupture+Labs+%F0%9F%92%BB;Innovating+at+the+intersection+of+AI+%2B+Blockchain" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=5000&pause=1000&color=00FF41&center=true&vCenter=true&width=660&height=50&lines=Full-Stack+%26+AI+Engineer;Building+Web3+Games+at+Rupture+Labs;Degenerate+Developer+%F0%9F%A4%AF;Fine-tuning+LLMs+on+peptides+(lol)" alt="Typing SVG" />
 
-<br>
-
-**🚀 Founder @ [Rupture Labs](https://github.com/Rupture-Labs)** — A web3 gaming studio building the future of blockchain gaming<br>
+**🚀 Founder @ [Rupture Labs](https://github.com/Rupture-Labs)** — A web3 gaming studio building the future of blockchain gaming  
 **⚡ Specializing in:** AI/ML · Solana · Mobile Dev (iOS/Android) · Web3 Game Engines · Full-Stack Development
 
 <br>
@@ -44,15 +42,15 @@
 
 <div align="center">
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitsiwach&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF41&text_color=8B949E&icon_color=00FF41)
+![0xUgly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xUgly&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF41&text_color=8B949E&icon_color=00FF41)
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsiwach&layout=compact&langs_count=12&theme=dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=8B949E)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xUgly&layout=compact&langs_count=12&theme=dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=8B949E)
 
 <br>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=harshitsiwach&theme=dark&background=0d1117&hide_border=true&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=00FF41)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0xUgly&theme=dark&background=0d1117&hide_border=true&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=00FF41)
 
 </div>
 
@@ -132,15 +130,10 @@
 
 <div align="center">
 
-<a href="https://x.com/harshitsiwach" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41" alt="X" /></a>
-<a href="https://linkedin.com/in/harshitsiwach" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://discord.gg/your-invite" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/0xUgly" target="_blank"><img src="https://img.shields.io/badge/GitHub-0xUgly-00FF41?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://x.com/0xUgly" target="_blank"><img src="https://img.shields.io/badge/X-0xUgly-00FF41?style=for-the-badge&logo=x&logoColor=00FF41" alt="X" /></a>
 <a href="mailto:harshitsiwach@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br>
-
-<a href="https://github.com/Rupture-Labs?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Rupture_Labs-Org-00FF41?style=for-the-badge&logo=github&logoColor=000" alt="Rupture Labs" /></a>
-<a href="https://hermes-agent.nousresearch.com" target="_blank"><img src="https://img.shields.io/badge/Hermes_Agent-AI-8b5cf6?style=for-the-badge&logo=robot&logoColor=white" alt="Hermes Agent" /></a>
+<a href="https://github.com/Rupture-Labs" target="_blank"><img src="https://img.shields.io/badge/Rupture_Labs-Org-00FF41?style=for-the-badge&logo=github&logoColor=000" alt="Rupture Labs" /></a>
 
 </div>
 
