@@ -126,7 +126,7 @@
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Ping Me!
 
 <div align="center">
 
@@ -138,13 +138,5 @@
 </div>
 
 ---
-
-<div align="center">
-
-**✨ Thanks for visiting! Let's build something amazing together ✨**
-
-<span style="color: #00FF41;">●</span> *Neon Green forever — Rupture Labs branding, always* 🟢
-
-</div>
 
 </div>
