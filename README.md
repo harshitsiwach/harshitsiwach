@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [0xUgly](https://github.com/0xUgly)
+# 👋 Hi, I'm [0xUgly](https://github.com/harshitsiwach)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=5000&pause=1000&color=00FF41&center=true&vCenter=true&width=660&height=50&lines=Full-Stack+%26+AI+Engineer;Building+Web3+Games+at+Rupture+Labs;Degenerate+Developer+%F0%9F%A4%AF;Fine-tuning+LLMs+on+peptides+(lol)" alt="Typing SVG" />
 
@@ -42,11 +42,11 @@
 
 <div align="center">
 
-![0xUgly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xUgly&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF41&text_color=8B949E&icon_color=00FF41)
+![0xUgly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitsiwach&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF41&text_color=8B949E&icon_color=00FF41)
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xUgly&layout=compact&langs_count=12&theme=dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=8B949E)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsiwach&layout=compact&langs_count=12&theme=dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=8B949E)
 
 <br>
 
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-<a href="https://github.com/0xUgly" target="_blank"><img src="https://img.shields.io/badge/GitHub-0xUgly-00FF41?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/harshitsiwach" target="_blank"><img src="https://img.shields.io/badge/GitHub-0xUgly-00FF41?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/0xUgly" target="_blank"><img src="https://img.shields.io/badge/X-0xUgly-00FF41?style=for-the-badge&logo=x&logoColor=00FF41" alt="X" /></a>
 <a href="mailto:harshitsiwach@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Rupture-Labs" target="_blank"><img src="https://img.shields.io/badge/Rupture_Labs-Org-00FF41?style=for-the-badge&logo=github&logoColor=000" alt="Rupture Labs" /></a>
